@@ -1,83 +1,83 @@
-Countries,Pringles?
-Albania,0
-Argentina,0
-Australia,0
-Austria,0
-Bahrain,0
-Belgium,0
-Bolivia,0
-Bosnia & Herzegovina,0
-Brazil,0
-Bulgaria,0
-Canada,0
-Chile,0
-Colombia,0
-Costa Rica,0
-Croatia,0
-Cyprus,0
-Czechia,0
-Denmark,0
-Dominican Republic,0
-Ecuador,0
-Egypt,0
-El Salvador,0
-Estonia,0
-Finland,0
-France,0
-Germany,0
-Greece,0
-Guatemala,0
-Honduras,0
-Hungary,0
-Iceland,0
-Ireland,0
-Israel,0
-Italy,0
-Jamaica,0
-Japan,0
-Jordan,0
-Korea,0
-Kosovo,0
-Kuwait,0
-Latvia,0
-Lebanon,0
-Lithuania,0
-Luxembourg,0
-Macedonia,0
-Malaysia,0
-Malta,0
-Mexico,0
-Moldova,0
-Montenegro,0
-Netherlands,0
-New Zealand,0
-Nicaragua,0
-Norway,0
-Oman,0
-Panama,0
-Paraguay,0
-Peru,0
-Philippines,0
-Poland,0
-Portugal,0
-Puerto Rico,0
-Qatar,0
-Romania,0
-Russia,0
-Saudi Arabia,0
-Serbia,0
-Slovakia,0
-Slovenia,0
-South Africa,0
-Spain,0
-Sweden,0
-Switzerland,0
-Taiwan,0
-Thailand,0
-Trinidad & Tobago,0
-Turkey,0
-Ukraine,0
-United Arab Emierates,0
-United Kingdom,0
-United States,0
-Uruguay,0
+Countries,Code,Pringles?
+Albania,ALB,0
+Argentina,ARG,0
+Australia,AUS,0
+Austria,AUT,0
+Bahrain,BHR,0
+Belgium,BEL,0
+Bolivia,BOL,0
+Bosnia & Herzegovina,BIH,0
+Brazil,BRA,0
+Bulgaria,BGR,0
+Canada,CAN,0
+Chile,CHL,0
+Colombia,COL,0
+Costa Rica,CRI,0
+Croatia,HRV,0
+Cyprus,CYP,0
+Czechia,CZE,0
+Denmark,DNK,0
+Dominican Republic,DOM,0
+Ecuador,ECU,0
+Egypt,EGY,0
+El Salvador,SLV,0
+Estonia,EST,0
+Finland,FIN,0
+France,FRA,0
+Germany,DEU,0
+Greece,GRC,0
+Guatemala,GTM,0
+Honduras,HND,0
+Hungary,HUN,0
+Iceland,ISL,0
+Ireland,IRL,0
+Israel,ISR,0
+Italy,ITA,0
+Jamaica,JAM,0
+Japan,JPN,0
+Jordan,JOR,0
+Korea,KOR,0
+Kosovo,KOS,0
+Kuwait,KWT,0
+Latvia,LVA,0
+Lebanon,LBN,0
+Lithuania,LTU,0
+Luxembourg,LUX,0
+Macedonia,MKD,0
+Malaysia,MYS,0
+Malta,MLT,0
+Mexico,MEX,0
+Moldova,MDA,0
+Montenegro,MNE,0
+Netherlands,NLD,0
+New Zealand,NZL,0
+Nicaragua,NIC,0
+Norway,NOR,0
+Oman,OMN,0
+Panama,PAN,0
+Paraguay,PRY,0
+Peru,PER,0
+Philippines,PHL,0
+Poland,POL,0
+Portugal,PRT,0
+Puerto Rico,PRI,0
+Qatar,QAT,0
+Romania,ROU,0
+Russia,RUS,0
+Saudi Arabia,SAU,0
+Serbia,SRB,0
+Slovakia,SVK,0
+Slovenia,SVN,0
+South Africa,ZAF,0
+Spain,ESP,0
+Sweden,SWE,0
+Switzerland,CHE,0
+Taiwan,TWN,0
+Thailand,THA,0
+Trinidad & Tobago,TTO,0
+Turkey,TUR,0
+Ukraine,UKR,0
+United Arab Emierates,ARE,0
+United Kingdom,GBR,0
+United States,USA,0
+Uruguay,URY,0
